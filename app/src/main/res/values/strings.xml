@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeckoPrice</string>
+    <string name="loading_state_message">Retry</string>
+</resources>
